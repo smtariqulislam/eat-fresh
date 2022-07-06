@@ -45,6 +45,7 @@ h2 {
 .backgrond-image {
     background-image: url(images/shapes/7.png);
     background-repeat: no-repeat;
+    background-size: cover;
 }
 
 
